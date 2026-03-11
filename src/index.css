@@ -1,9 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&family=Roboto:wght@300;400;500&display=swap');
+
 @import "tailwindcss";
 
 #navLinks {
   font-family: "Poppins", sans-serif;
-  font-weight: 400;
-  font-style: normal;
+  font-weight: 600;
+}
+
+#logoTitle{
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  color: rgb(58, 58, 66);
+}
+
+#logo{
+  width: 65px;
+  height: 65px;
 }
 
 /* :root {
